@@ -42,6 +42,24 @@
 - [Eval：怎么知道你的 Agent 变好了](posts/agentic-engineering/agent-eval.md)
   没有评估的迭代就是瞎调，讲清评估的要素、方法学，附一个最小可运行的 Eval。
 
+**Harness 与自进化 Agent**
+
+- [养虾还是养马：两款开源 Agent 的分岔路](posts/harness-agent/openclaw-vs-hermes.md)
+  从 OpenClaw 到 Hermes Agent，两条设计哲学的分岔，以及一套该不该跟风换工具的判断方法。
+- [Harness：决定 Agent 好不好用的，是模型外面那一圈](posts/harness-agent/agent-harness.md)
+  模型能力趋同之后，工具编排、上下文、记忆、反思、护栏怎么组装成胜负手。
+- [Agent 怎么从经验里长出技能：自进化的原理与代价](posts/harness-agent/self-evolving-skills.md)
+  技能沉淀与离线优化怎么工作，以及「经验污染」这个绕不开的反噬。
+- [动手：给 Agent 加一个自进化技能库](posts/harness-agent/hands-on-skill-library.md)
+  零依赖跑通提炼、检索、复用、门禁与回滚，并演示经验污染怎么被拦住。
+
+**AGI 与通用智能**
+
+- [AGI 到底是什么：一个没有公认定义的目标](posts/agi/what-is-agi.md)
+  几类定义各自的毛病、能力分级，以及围绕它的三场争论。
+- [自进化的 Agent 是通往 AGI 的路吗](posts/agi/is-self-evolving-agent-agi.md)
+  外挂成长与权重级学习的本质区别，以及怎么衡量一个 Agent 有没有真的变好。
+
 ### 嵌入式与边缘 AI
 
 **边缘 AI 入门**
